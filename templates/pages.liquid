@@ -32,7 +32,9 @@
         {% if page.showRecentPosts %}
           <ul>
             {% for post in collections.posts %}
-              <li><a href="{{ site.basePath }}{{ post.url }}">{{ post.title }}</a></li>
+              <li><a href="{{ site.basePath }}{{ post.url }}">
+                {{ post.title }}
+              </a></li>
             {% endfor %}
           </ul>
         {% endif %}

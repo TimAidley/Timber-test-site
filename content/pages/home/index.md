@@ -3,6 +3,7 @@ id: PAGE-HOME
 title: Welcome
 description: The home page of my Timber site.
 public: true
+showRecentPosts: true
 ---
 
 This is a **Tim**ber site — a git-backed static CMS. Edit content in the browser,
