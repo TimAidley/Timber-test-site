@@ -8,6 +8,6 @@ translationKey: b3486af0-d104-4443-a6e8-103dfb8183bc
 created: 2026-07-17T05:55:53.293Z
 ---
 
-Timber produces a static site with no database and no server — just your content repo.
+Timber crea un sitio estático sin base de datos ni servidor; solo tu repositorio de contenido.
 
-Let's test images:
+Probemos con imágenes:
